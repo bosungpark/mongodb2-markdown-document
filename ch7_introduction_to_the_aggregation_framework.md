@@ -18,6 +18,7 @@ pipeline의 각각의 스테이지는 데이터를 생성하는 유닛이다.
 이런 tunable들은 연산자의 형태를 가진다.
 
 또 각각의 스테이지는 재활용이 가능하다.
+
 <img width="503" alt="스크린샷 2023-12-28 오후 11 19 55" src="https://github.com/bosungpark/mongodb2-markdown-document/assets/81157873/e01fa073-6221-4baa-afc0-8915d8debb5a">
 
 Stages Operations
